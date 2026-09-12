@@ -28,18 +28,18 @@ public:
     long long distantSubarrays(vector<int>& nums, int goal, int k) {
         int n = nums.size();
         vector<ll> pref(n);
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++){
             if(i == 0) pref[i] = nums[i];
             else pref[i] = pref[i-1] + (ll)nums[i];
         }
         
         ordered_set s;
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++){
             s.insert({pref[i], i});
         }
         
         ll res = 0;
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < n; i++){
             ll last = 0;
             if(i > 0) last = pref[i-1];
             
