@@ -46,12 +46,10 @@ public:
             if(i != 0){
                 s.erase({last, i-1}); 
             }
-            
-            ll left = last + goal - k;
-            ll right = last + goal + k;
-            ll leftCnt = s.order_of_key({left, n + 1});
-            ll rightCnt = s.order_of_key({right, -1});
-            ll middle = max((ll)0, rightCnt - leftCnt);
+
+            ll left = s.order_of_key({last + goal - k, n + 1});
+            ll right = s.order_of_key({last + goal + k, -1});
+            ll middle = max((ll)0, right - left);
     
             res += s.size() - middle;
         }
