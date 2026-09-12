@@ -57,7 +57,7 @@ public:
         // }
         for(int i = 0; i < arr.size(); i++) v.push_back(arr[i][0]);
         ll res = f(arr, 0 , 4);
-        cout<<"Maximum ans is - > "<<res<<"\n";
+        // cout<<"Maximum ans is - > "<<res<<"\n";
         vector<int> path;
         get_path(arr, 0, path, res, 4);
         // sort(allPath.begin(), allPath.end());
