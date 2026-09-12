@@ -23,7 +23,7 @@ typedef __int128_t lll;
 class Solution {
 public:
     #define ll long long
-    typedef tree<pair<ll, int>, null_type, less<pair<ll, int>>, rb_tree_tag, tree_order_statistics_node_update> ordered_set;
+    typedef tree<ll, null_type, less_equal<ll>, rb_tree_tag, tree_order_statistics_node_update> ordered_set;
     
     long long distantSubarrays(vector<int>& nums, int goal, int k) {
         int n = nums.size();
@@ -35,7 +35,7 @@ public:
         
         ordered_set s;
         for(int i = 0; i < n; i++){
-            s.insert({pref[i], i});
+            s.insert(pref[i]);
         }
         
         ll res = 0;
@@ -44,11 +44,11 @@ public:
             if(i > 0) last = pref[i-1];
             
             if(i != 0){
-                s.erase({last, i-1}); 
+                s.erase(s.find_by_order(s.order_of_key(last))); 
             }
 
-            ll left = s.order_of_key({last + goal - k, n + 1});
-            ll right = s.order_of_key({last + goal + k, -1});
+            ll left = s.order_of_key(last + goal - k+1);
+            ll right = s.order_of_key(last + goal + k);
             ll middle = max((ll)0, right - left);
     
             res += s.size() - middle;
