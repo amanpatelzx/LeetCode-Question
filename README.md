@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1745-palindrome-partitioning-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Geometry
 |  |
 | ------- |
@@ -60,4 +62,12 @@
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Prefix Sum
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
