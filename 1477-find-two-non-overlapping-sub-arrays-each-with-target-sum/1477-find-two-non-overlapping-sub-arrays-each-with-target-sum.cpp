@@ -30,7 +30,7 @@ public:
             }
             if(i < n-1) v[i] = min(v[i], v[i+1]);
         }
-        for(int i = 0; i < n; i++) cout<<v[i]<<" ";
+        // for(int i = 0; i < n; i++) cout<<v[i]<<" ";
         reverse(suff.begin(), suff.end());
         int res = 1e6;
         for(int i = n-1; i >= 0; i--){
