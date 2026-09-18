@@ -80,9 +80,6 @@ public:
                 }
             }
         }
-        // for(auto &ele : range){
-        //     cout<<ele.first<<" -> "<<ele.second.first<<" , "<<ele.second.second<<"\n";
-        // }
         vector<pair<char,pair<int,int>>> v;
         for(auto &ele : range){
             v.push_back({ele.first , {ele.second.first , ele.second.second}});
@@ -95,9 +92,9 @@ public:
             }
             else return 0;
         });
-        for(int i = 0; i < v.size(); i++){
-            cout<<v[i].first<<" -> "<<v[i].second.first<<" , "<<v[i].second.second<<"\n";
-        }
+        // for(int i = 0; i < v.size(); i++){
+        //     cout<<v[i].first<<" -> "<<v[i].second.first<<" , "<<v[i].second.second<<"\n";
+        // }
         vector<pair<int,int>> arr;
         for(int i = 0; i < v.size(); i++){
             arr.push_back({v[i].second.first, i});
@@ -109,7 +106,7 @@ public:
             }
         }
         auto tmp = f(v, 0, -1, arr);
-        cout<<tmp.first<<" "<<tmp.second<<"\n";
+        // cout<<tmp.first<<" "<<tmp.second<<"\n";
         vector<string> res;
         get_ans(s, v, 0, -1, tmp, res, arr);
         return res;
