@@ -67,6 +67,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1745-palindrome-partitioning-iv](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1745-palindrome-partitioning-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
