@@ -8,6 +8,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0836-rectangle-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
