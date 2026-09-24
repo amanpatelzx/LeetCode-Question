@@ -8,6 +8,7 @@
 | [0835-image-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
@@ -41,6 +42,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1745-palindrome-partitioning-iv) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -119,4 +121,12 @@
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0216-combination-sum-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 <!---LeetCode Topics End-->
