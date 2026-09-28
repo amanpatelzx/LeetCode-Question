@@ -81,6 +81,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1745-palindrome-partitioning-iv](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -143,8 +144,10 @@
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
