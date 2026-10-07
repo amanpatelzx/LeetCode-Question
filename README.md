@@ -73,6 +73,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [4002-count-valid-sequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/4002-count-valid-sequences) |
 ## Geometry
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [4002-count-valid-sequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/4002-count-valid-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
