@@ -3,12 +3,12 @@ public:
     int minInsertions(string s) {
         int n = s.size();
         int res = 0;
-        stack<int> st;
+        int cnt = 0;
         int i = 0;
         while(i < n){
-            if(s[i] == '(') st.push(0);
+            if(s[i] == '(') cnt++;
             else{
-                if(!st.empty()){
+                if(cnt > 0){
                     if(i+1 < n){
                         if(s[i+1] == ')'){
                             i++;
@@ -20,7 +20,7 @@ public:
                     else{
                         res += 1;
                     }
-                    st.pop();
+                    cnt--;
                 }
                 else{
                     if(i+1 < n){
@@ -39,8 +39,7 @@ public:
             }
             i++;
         }
-        int m = st.size();
-        res += 2*m;
+        res += 2*cnt;
         return res;
     }
 };
