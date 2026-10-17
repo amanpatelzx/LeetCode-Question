@@ -20,6 +20,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
