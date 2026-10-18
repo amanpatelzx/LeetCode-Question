@@ -8,6 +8,7 @@
 | [0414-third-maximum-number](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -58,6 +59,7 @@
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1745-palindrome-partitioning-iv) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -84,6 +86,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -135,6 +138,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4002-count-valid-sequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/4002-count-valid-sequences) |
 ## Prefix Sum
@@ -155,6 +159,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -165,6 +170,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Segment Tree
 |  |
 | ------- |
@@ -228,4 +234,24 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
