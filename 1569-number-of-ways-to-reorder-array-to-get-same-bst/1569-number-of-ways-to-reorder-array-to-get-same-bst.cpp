@@ -1,10 +1,11 @@
 class Solution {
 public:
+    #define ll long long
     int n;
-    long long dp[1004][1004];
-    long long mod = 1e9 + 7;
+    ll dp[1004][1004];
+    ll mod = 1e9 + 7;
 
-    long long f(vector<int> &arr){
+    ll f(vector<int> &arr){
         int m = arr.size();
         if(m <= 2) return 1;
         
@@ -19,7 +20,7 @@ public:
             }
         }
         
-        long long ans = dp[m-1][left.size()];
+        ll ans = dp[m-1][left.size()];
         ans = (ans * f(left)) % mod;
         ans = (ans * f(right)) % mod;
         return ans;
@@ -35,7 +36,7 @@ public:
             }
         }
         
-        long long ans = f(nums);
+        ll ans = f(nums);
         return (ans - 1 + mod) % mod;
     }
 };
