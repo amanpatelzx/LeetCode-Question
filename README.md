@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 | [0216-combination-sum-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0216-combination-sum-iii) |
 | [0414-third-maximum-number](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0835-image-overlap) |
@@ -112,6 +113,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0032-longest-valid-parentheses) |
@@ -263,4 +265,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
