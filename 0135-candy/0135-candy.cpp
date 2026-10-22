@@ -15,8 +15,8 @@ public:
         }
         int res = 0;
         for(int i = 0; i < n; i++){
-            res += max(pref[i], suff[i]);
+            pref[i] = max(pref[i], suff[i]);
         }
-        return res;
+        return accumulate(pref.begin(), pref.end(), 0);
     }
 };
