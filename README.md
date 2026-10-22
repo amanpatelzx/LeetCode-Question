@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0216-combination-sum-iii) |
 | [0414-third-maximum-number](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0414-third-maximum-number) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -110,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -210,6 +213,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -271,4 +275,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
