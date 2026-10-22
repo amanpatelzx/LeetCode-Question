@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0014-longest-common-prefix) |
+| [0135-candy](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0216-combination-sum-iii) |
 | [0414-third-maximum-number](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0414-third-maximum-number) |
 | [0835-image-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0835-image-overlap) |
@@ -137,6 +138,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
