@@ -6,9 +6,10 @@ public:
     vector<ll> sumBit;
 
     void update(int idx, int sign, ll val){
-        for(; idx <= m; idx += idx & -idx){
+        while(idx <= m){
             cntBit[idx] += sign;
             sumBit[idx] += sign * val;
+            idx += idx & -idx;
         }
     }
 
