@@ -17,20 +17,20 @@ public:
             curr = max(curr, 1LL*i);
 
             while(!S.empty() && S.begin()->first <= curr){
-                auto [t, id] = *S.begin();
+                auto p = *S.begin();
                 S.erase(S.begin());
 
-                s.insert({servers[id], id});
+                s.insert({servers[p.second], p.second});
             }
 
             if(s.empty()){
                 curr = S.begin()->first;
 
                 while(!S.empty() && S.begin()->first <= curr){
-                    auto [t, id] = *S.begin();
+                    auto p = *S.begin();
                     S.erase(S.begin());
 
-                    s.insert({servers[id], id});
+                    s.insert({servers[p.second], p.second});
                 }
             }
             auto p = *s.begin();
