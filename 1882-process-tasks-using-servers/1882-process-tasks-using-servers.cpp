@@ -4,7 +4,7 @@ public:
         int n = servers.size(), m = tasks.size();
 
         set<pair<int,int>> s;
-        set<pair<long long,int>> busy;
+        set<pair<long long,int>> S;
 
         for(int i = 0; i < n; i++){
             s.insert({servers[i], i});
@@ -16,27 +16,27 @@ public:
         for(int i = 0; i < m; i++){
             curr = max(curr, 1LL*i);
 
-            while(!busy.empty() && busy.begin()->first <= curr){
-                auto [t, id] = *busy.begin();
-                busy.erase(busy.begin());
+            while(!S.empty() && S.begin()->first <= curr){
+                auto [t, id] = *S.begin();
+                S.erase(S.begin());
 
                 s.insert({servers[id], id});
             }
 
             if(s.empty()){
-                curr = busy.begin()->first;
+                curr = S.begin()->first;
 
-                while(!busy.empty() && busy.begin()->first <= curr){
-                    auto [t, id] = *busy.begin();
-                    busy.erase(busy.begin());
+                while(!S.empty() && S.begin()->first <= curr){
+                    auto [t, id] = *S.begin();
+                    S.erase(S.begin());
 
                     s.insert({servers[id], id});
                 }
             }
-            auto [w, id] = *s.begin();
+            auto p = *s.begin();
             s.erase(s.begin());
-            ans[i] = id;
-            busy.insert({curr + tasks[i], id});
+            ans[i] = p.second;
+            S.insert({curr + tasks[i], p.second});
         }
         return ans;
     }
