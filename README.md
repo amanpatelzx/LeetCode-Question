@@ -82,6 +82,7 @@
 | [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0583-delete-operation-for-two-strings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
+| [1143-longest-common-subsequence](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -160,6 +161,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -360,4 +362,5 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
