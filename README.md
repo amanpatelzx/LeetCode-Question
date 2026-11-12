@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0216-combination-sum-iii) |
+| [0312-burst-balloons](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0312-burst-balloons) |
 | [0414-third-maximum-number](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -81,6 +82,7 @@
 | [0022-generate-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
+| [0312-burst-balloons](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
