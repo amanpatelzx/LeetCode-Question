@@ -97,6 +97,7 @@
 | [1745-palindrome-partitioning-iv](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1745-palindrome-partitioning-iv) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -155,6 +156,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0042-trapping-rain-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3863-minimum-operations-to-sort-a-string) |
