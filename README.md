@@ -92,6 +92,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0764-largest-plus-sign](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0764-largest-plus-sign) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0301-remove-invalid-parentheses) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1096-brace-expansion-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
@@ -316,6 +318,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -370,6 +373,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -377,10 +381,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
