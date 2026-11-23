@@ -17,11 +17,11 @@ public:
             int b = mines[i][1];
             grid[a][b] = 0;
         }
-
-        vector<vector<int>> up(n, vector<int> (n, 0));
-        vector<vector<int>> down = up;
-        vector<vector<int>> left = up;
-        vector<vector<int>> right = up;
+        int up[n][n], down[n][n], left[n][n], right[n][n];
+        memset(up, 0, sizeof(up));
+        memset(up, 0, sizeof(down));
+        memset(up, 0, sizeof(left));
+        memset(up, 0, sizeof(right));
 
         for(int i = 0; i < n; i++){
             int curr = 0;
