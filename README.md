@@ -12,6 +12,7 @@
 | [0414-third-maximum-number](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0764-largest-plus-sign](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0764-largest-plus-sign) |
 | [0835-image-overlap](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1267-count-servers-that-communicate) |
@@ -90,6 +91,7 @@
 | [0312-burst-balloons](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0312-burst-balloons) |
 | [0583-delete-operation-for-two-strings](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0678-valid-parenthesis-string) |
+| [0764-largest-plus-sign](https://github.com/amanpatelzx/LeetCode-Question/tree/master/0764-largest-plus-sign) |
 | [1143-longest-common-subsequence](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1143-longest-common-subsequence) |
 | [1278-palindrome-partitioning-iii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1278-palindrome-partitioning-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
