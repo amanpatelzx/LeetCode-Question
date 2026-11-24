@@ -34,6 +34,7 @@
 | [3082-find-the-sum-of-the-power-of-all-subsequences](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3082-find-the-sum-of-the-power-of-all-subsequences) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
@@ -72,6 +73,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Search
@@ -146,6 +148,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/amanpatelzx/LeetCode-Question/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -232,6 +235,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
@@ -417,4 +421,8 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/amanpatelzx/LeetCode-Question/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/amanpatelzx/LeetCode-Question/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
